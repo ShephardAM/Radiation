@@ -1,1 +1,1 @@
-# Radiation
+# RadiationI am establishing dose-response curves for a variety of life history traits in crickets subjected to ionizing radiation early in life. Life history traits examined are related to growth, reproduction, offspring fitness, and survival. The data provide the opportunity to see how various fitness-related traits might be differentially affected by radiation doses, i.e., do low dose exposures provide fitness benefits or do tradeoffs emerge?  
